@@ -50,9 +50,6 @@ XP method is based on the four simple values:
 - Endurance.
 
 ## **4. Crystal**
-
-Introduced by [**Dr. Alistair Cockburn**](https://alistair.cockburn.us)
-
 Crystal is a group of smaller agile development methodlolgies comprising of *Crystal Yellow*, *Crystal Clear*, *Crystal Red*, *Crystal Orange*, and more. Every methodologies has its own specific framework.
 
 Similar to other agile methodologies, Crystal also addresses prompt delivery of software, regularity, less administration with high invlovement of users, and customer satisfaction.
@@ -75,7 +72,7 @@ DSDM works of *eight principles*, that guide the team and build a persoective fo
 - Manifest control.
 
 Submitted By:
-Diwash Wagle
-Roll.no:12
-Submission date:1/10/2022
-Deadline:1/10/2022
+-Diwash Wagle
+-Roll.no:12
+-Submission date:1/10/2022
+-Deadline:1/10/2022
