@@ -73,6 +73,6 @@ DSDM works of *eight principles*, that guide the team and build a persoective fo
 
 Submitted By:</br>
 -Diwash Wagle</br>
--Roll.no:12
--Submission date:1/10/2022
--Deadline:1/10/2022
+-Roll.no:12</br>
+-Submission date:1/10/2022</br>
+-Deadline:1/10/2022</br>
