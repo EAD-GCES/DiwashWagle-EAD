@@ -20,6 +20,6 @@
 | 4 | [Factory Design Pattern] |
 
 [Getting started with Git]:https://github.com/IamDiwash/EAD/blob/main/Practicals/Lab1/Getting%20started%20with%20Git.md
-[Contributing to Open Source Projects]:https://github.com/IamDiwash/EAD/blob/main/Practicals/Lab2/Contributing%20to%20Projects.md
+[Contributing to Open Source Projects]:https://github.com/IamDiwash/EAD/blob/main/Practicals/Lab2/Contributing%20to%20Open%20Source%20Projects.md
 [Singleton Design Pattern]:https://github.com/IamDiwash/EAD/tree/main/Practicals/Lab3
 [Factory Design Pattern]:https://github.com/IamDiwash/EAD/tree/main/Practicals/Lab4
