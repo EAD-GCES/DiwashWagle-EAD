@@ -1,4 +1,4 @@
-# Contribuiting to Open Source Project
+# Contribuiting to Open Source Projects
 
 ## 1. Sign in to GitHub
 
